@@ -1,0 +1,1 @@
+Simple Python tool (py2exe winbin available in dist) to parse .csv file and find most recent occurrence colA indexes spread across unique colB primary field entities (further dimensioned by optional colC secondary field entities). 
